@@ -1,0 +1,28 @@
+Pre processing important
+
+all lowercased
+stemming
+lemmatized word
+stopword removal
+normalization
+tokenization
+
+
+One-hot encoding (jvois pas comment ça nous aide, on a pas de données tabulaires, on a pas le contexte etc)
+
+normalization and standardisation important 
+
+normalization bad with outliers 
+
+Visualisation of the data ? 
+t-sne mieux mais plus long
+
+feature extraction
+
+Faut transformer notre texte en vecteurs.
+Pas loin dans l'espace -> same context
+
+Evaluation
+
+Train/validation/test split
+
